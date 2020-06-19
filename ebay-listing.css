@@ -1,1 +1,19 @@
+.listing-template {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.specs-table {
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  max-width: 50em;
+}
+.specs-table th, .specs-table td {
+  border: 1px solid #D4D4D4;
+  padding: 0.5em 1.5em;
+}
+.specs-table th {
+  background: #F2F2F2;
+}
+
+/*# sourceMappingURL=ebay-listing.css.map */
